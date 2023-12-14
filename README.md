@@ -3,7 +3,7 @@
 
 <p>After five years in the publishing industry (print and digital), I completed the Wagon Bootcamp to transition into a full-stack web developer role. Continuously seeking knowledge and passionate about problem-solving, I am now looking for my next opportunity in the field of web development.</p>
 
-🏙️ Project from Le Wagon (2 weeks, 4 people) [**CityHunters**](https://www.cityhunters.site/) : Project from Le Wagon (2 weeks, 4 people)
+🏙️ Project from Le Wagon (2 weeks, 4 people) <span style="text-decoration:none">[**CityHunters**](https://www.cityhunters.site/)</span>
 
 🚝 Project from Le Wagon (1 week, 4 people) **Airatp**
 
