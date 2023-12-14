@@ -5,11 +5,13 @@
 
 🏙️ <span style="text-decoration:none">[**CityHunters**](https://www.cityhunters.site/)</span><br>
 End-of-course project at Le Wagon| 4 team members | 2 weeks<br>
-Mobile web application: A treasure hunt in Paris with static and mobile riddles (geolocation) to solve. Technologies used: Ruby on Rails, JavaScript, SQL, CSS, HTML, Ajax, WebSocket, API (Mapbox, Cloudinary).
+Mobile web application: A treasure hunt in Paris with static and mobile riddles (geolocation) to solve.<br>
+Technologies used: Ruby on Rails, JavaScript, SQL, CSS, HTML, Ajax, WebSocket, API (Mapbox, Cloudinary).
 
 🚝 Airatp<br>
 End-of-course project at Le Wagon | 4 team members | 1 week **Airatp**<br>
-Airbnb-style marketplace website for renting imaginary vehicles. Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.
+Airbnb-style marketplace website for renting imaginary vehicles.<br>
+Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.
 
 📫 How to reach me **anneperrine.fournier@gmail.com**
 
