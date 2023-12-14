@@ -13,7 +13,7 @@ End-of-course project at Le Wagon | 4 team members | 1 week<br>
 Airbnb-style marketplace website for renting imaginary vehicles.<br>
 Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.
 
-📫 How to reach me **anneperrine.fournier@gmail.com**
+📫 How to reach me: **anneperrine.fournier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
