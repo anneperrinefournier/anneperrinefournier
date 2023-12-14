@@ -3,12 +3,12 @@
 
 <p>After five years in the publishing industry (print and digital), I completed the Wagon Bootcamp to transition into a full-stack web developer role. Continuously seeking knowledge and passionate about problem-solving, I am now looking for my next opportunity in the field of web development.</p>
 
-🏙️ <span style="text-decoration:none">[**CityHunters**](https://www.cityhunters.site/)</span></br>
-End-of-course project at Le Wagon| 4 team members | 2 weeks</br>
+🏙️ <span style="text-decoration:none">[**CityHunters**](https://www.cityhunters.site/)</span><br>
+End-of-course project at Le Wagon| 4 team members | 2 weeks<br>
 Mobile web application: A treasure hunt in Paris with static and mobile riddles (geolocation) to solve. Technologies used: Ruby on Rails, JavaScript, SQL, CSS, HTML, Ajax, WebSocket, API (Mapbox, Cloudinary).
 
-🚝 Airatp</br>
-End-of-course project at Le Wagon | 4 team members | 1 week **Airatp**</br>
+🚝 Airatp<br>
+End-of-course project at Le Wagon | 4 team members | 1 week **Airatp**<br>
 Airbnb-style marketplace website for renting imaginary vehicles. Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.
 
 📫 How to reach me **anneperrine.fournier@gmail.com**
