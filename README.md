@@ -3,11 +3,11 @@
 
 <p>After five years in the publishing industry (print and digital), I completed the Wagon Bootcamp to transition into a full-stack web developer role. Continuously seeking knowledge and passionate about problem-solving, I am now looking for my next opportunity in the field of web development.</p>
 
-<p>🏙️ <span style="text-decoration:none">[**CityHunters**](https://www.cityhunters.site/)</span></p>
+🏙️ <span style="text-decoration:none">[**CityHunters**](https://www.cityhunters.site/)</span>
 <p>End-of-course project at Le Wagon| 4 team members | 2 weeks</p>
 <p>Mobile web application: A treasure hunt in Paris with static and mobile riddles (geolocation) to solve. Technologies used: Ruby on Rails, JavaScript, SQL, CSS, HTML, Ajax, WebSocket, API (Mapbox, Cloudinary).</p>
 
-<p>🚝 Airatp</p>
+🚝 Airatp
 <p>End-of-course project at Le Wagon | 4 team members | 1 week **Airatp**</p>
 <p>Airbnb-style marketplace website for renting imaginary vehicles. Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.</p>
 
