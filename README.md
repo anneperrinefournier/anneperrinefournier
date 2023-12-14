@@ -8,8 +8,8 @@ End-of-course project at Le Wagon| 4 team members | 2 weeks<br>
 Mobile web application: A treasure hunt in Paris with static and mobile riddles (geolocation) to solve.<br>
 Technologies used: Ruby on Rails, JavaScript, SQL, CSS, HTML, Ajax, WebSocket, API (Mapbox, Cloudinary).
 
-🚝 <strong>Airatp</strong><br>
-End-of-course project at Le Wagon | 4 team members | 1 week **Airatp**<br>
+🚝 <strong>**Airatp**</strong><br>
+End-of-course project at Le Wagon | 4 team members | 1 week<br>
 Airbnb-style marketplace website for renting imaginary vehicles.<br>
 Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.
 
