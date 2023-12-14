@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anne-Perrine</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
-- 🏙️ Project from Le Wagon (2 weeks, 4 people)) **CityHunters**
+<p>After five years in the publishing industry (print and digital), I completed the Wagon Bootcamp to transition into a full-stack web developer role. Continuously seeking knowledge and passionate about problem-solving, I am now looking for my next opportunity in the field of web development.</p>
 
-- 🚝 Project from Le Wagon (1 week, 4 people)) **Airatp**
+🏙️ Project from Le Wagon (2 weeks, 4 people) **CityHunters**
 
-- 📫 How to reach me **anneperrine.fournier@gmail.com**
+🚝 Project from Le Wagon (1 week, 4 people) **Airatp**
+
+📫 How to reach me **anneperrine.fournier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
