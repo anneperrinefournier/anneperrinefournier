@@ -6,7 +6,7 @@
 🏙️ <strong><span style="text-decoration:none">[**CityHunters**](https://www.cityhunters.site/)</span></strong><br>
 End-of-course project at Le Wagon| 4 team members | 2 weeks<br>
 Mobile web application: A treasure hunt in Paris with static and mobile riddles (geolocation) to solve.<br>
-Technologies used: Ruby on Rails, JavaScript, SQL, CSS, HTML, Ajax, WebSocket, API (Mapbox, Cloudinary).
+Technologies used: Ruby on Rails, JavaScript, SQL, CSS, HTML, Ajax, WebSocket, API (Mapbox, Cloudinary).<br>
 Voir des images du projet [ici](https://troopl.com/anneperrinefournier/cityhunters).
 
 🚝 <strong><span style="text-decoration:none">[**Airatp**](https://troopl.com/anneperrinefournier/airatp)</span></strong><br>
