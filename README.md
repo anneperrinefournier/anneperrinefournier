@@ -12,13 +12,13 @@ Voir des images du projet [ici](https://troopl.com/anneperrinefournier/cityhunte
 🚝 <strong>**Airatp**</strong><br>
 End-of-course project at Le Wagon | 4 team members | 1 week<br>
 Airbnb-style marketplace website for renting imaginary vehicles.<br>
-Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.
-Voir des images du projet [ici]([https://troopl.com/anneperrinefournier/cityhunters](https://troopl.com/anneperrinefournier/airatp)).
+Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.<br>
+Voir des images du projet [ici](https://troopl.com/anneperrinefournier/cityhunters](https://troopl.com/anneperrinefournier/airatp).
 
 🚙 <strong>[**DriveConnect**]</strong><br>
 Airbnb-style marketplace website for peer-to-peer car rentals.<br>
 Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.
-Voir des images du projet [ici]([https://troopl.com/anneperrinefournier/cityhunters](https://troopl.com/anneperrinefournier/driveconnect)).
+Voir des images du projet [ici](https://troopl.com/anneperrinefournier/cityhunters](https://troopl.com/anneperrinefournier/driveconnect).
 
 📫 How to reach me: **anneperrine.fournier@gmail.com**
 
