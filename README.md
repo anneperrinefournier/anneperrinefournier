@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anne-Perrine</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
-<p>After eight years in the publishing industry (print and digital), I completed the Wagon Bootcamp to transition into a full-stack web developer role. Continuously seeking knowledge and passionate about problem-solving, I am now looking for my next opportunity in the field of web development.</p>
+<p>After eight years in the publishing industry and in project management, I completed the Wagon Bootcamp to transition into a full-stack web developer role. Continuously seeking knowledge and passionate about problem-solving, I am now looking for my next opportunity in the field of web development.</p>
+
+Currently learning: ReactJS
 
 🏙️ <strong>**CityHunters**</strong><br>
 End-of-course project at Le Wagon| 4 team members | 2 weeks<br>
