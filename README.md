@@ -3,8 +3,6 @@
 
 <p>After eight years in the publishing industry and in project management, I completed the Wagon Bootcamp to transition into a full-stack web developer role. Continuously seeking knowledge and passionate about problem-solving, I am now looking for my next opportunity in the field of web development.</p>
 
-Currently learning: ReactJS
-
 🏙️ <strong>**CityHunters**</strong><br>
 End-of-course project at Le Wagon| 4 team members | 2 weeks<br>
 Mobile web application: A treasure hunt in Paris with static and mobile riddles (geolocation) to solve.<br>
