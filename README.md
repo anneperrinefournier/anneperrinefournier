@@ -26,28 +26,28 @@ Voir des images du projet [ici](https://troopl.com/anneperrinefournier/driveconn
 
 ## 📚 Currently learning
 
-### New Technologies:
+### New Technologies
 - Exploring React for building interactive user interfaces (currently focusing on basic concepts).
 - Learning Tailwind CSS for efficient styling and rapid UI development.
 - Improving my testing skills with the RSpect gem for behavior-driven development (BDD).
 - Exploring the capabilities of 'shoulda/matchers' for writing concise and expressive model specs.
 - Implementing FactoryBot for streamlined and maintainable test data setup.
 
-### CityHunters App:
+### CityHunters App
 - Refactoring and optimizing codebase for improved performance and maintainability.
 - Adding new features to the CityHunters app, such as the inclusion of clues to enhance the gaming experience.
 - Migrating hosting from Heroku to O2switch for better scalability and cost-efficiency.
 
-### Learning Resources:
+### Learning Resources
 - Studying "The Ruby on Rails Tutorial" by Michael Hartl, sixth edition, to deepen my understanding of Ruby on Rails best practices and advanced concepts.
 
-### Coding Challenges:
+### Coding Challenges
 - Solving coding katas on platforms like Codewars to enhance problem-solving skills and algorithmic thinking.
 - Completing challenges on Frontend Mentor to practice building real-world UI components and layouts.
 
-### Personal Projects:
-– Contributing to open-source projects related to Ruby on Rails and React to collaborate with the community and gain practical experience.
-– Building personal projects using CityHunters as a sandbox for implementing new features and experimenting with different technologies and techniques.
+### Personal Projects
+- Contributing to open-source projects related to Ruby on Rails and React to collaborate with the community and gain practical experience.
+- Building personal projects using CityHunters as a sandbox for implementing new features and experimenting with different technologies and techniques.
 
 ## 🔗 Connect with me
 
