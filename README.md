@@ -47,7 +47,7 @@ Voir des images du projet [ici](https://troopl.com/anneperrinefournier/driveconn
 
 ### Personal Projects:
 – Contributing to open-source projects related to Ruby on Rails and React to collaborate with the community and gain practical experience.
-- Building personal projects using CityHunters as a sandbox for implementing new features and experimenting with different technologies and techniques.
+– Building personal projects using CityHunters as a sandbox for implementing new features and experimenting with different technologies and techniques.
 
 ## 🔗 Connect with me
 
