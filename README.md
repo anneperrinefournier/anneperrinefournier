@@ -3,6 +3,27 @@
 
 <p>After eight years in the publishing industry and in project management, I completed the Wagon Bootcamp to transition into a full-stack web developer role. Continuously seeking knowledge and passionate about problem-solving, I am now looking for my next opportunity in the field of web development.</p>
 
+## Projects 🛠️
+
+🏙️ <strong>**CityHunters**</strong><br>
+End-of-course project at Le Wagon| 4 team members | 2 weeks<br>
+Mobile web application: A treasure hunt in Paris with static and mobile riddles (geolocation) to solve.<br>
+Technologies used: Ruby on Rails, JavaScript, SQL, CSS, HTML, Ajax, WebSocket, API (Mapbox, Cloudinary).<br>
+Lien du projet :  [www.cityhunters.site](https://www.cityhunters.site/)<br>
+Voir le demo day [ici](https://drive.google.com/file/d/16bFWz9swRAkmfDFpRVqBFp5hksSVBNbS/view?usp=drive_link).<br>
+Voir des images du projet [ici](https://troopl.com/anneperrinefournier/cityhunters).<br>
+
+🚝 <strong>**Airatp**</strong><br>
+End-of-course project at Le Wagon | 4 team members | 1 week<br>
+Airbnb-style marketplace website for renting imaginary vehicles.<br>
+Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.<br>
+Voir des images du projet [ici](https://troopl.com/anneperrinefournier/airatp).
+
+🚙 <strong>**DriveConnect**</strong><br>
+Airbnb-style marketplace website for peer-to-peer car rentals.<br>
+Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.<br>
+Voir des images du projet [ici](https://troopl.com/anneperrinefournier/driveconnect).
+
 ## Currently learning 📚
 
 ### New Technologies:
@@ -27,27 +48,6 @@
 ### Personal Projects:
 – Contributing to open-source projects related to Ruby on Rails and React to collaborate with the community and gain practical experience.
 - Building personal projects using CityHunters as a sandbox for implementing new features and experimenting with different technologies and techniques.
-
-## Projects 🛠️
-
-🏙️ <strong>**CityHunters**</strong><br>
-End-of-course project at Le Wagon| 4 team members | 2 weeks<br>
-Mobile web application: A treasure hunt in Paris with static and mobile riddles (geolocation) to solve.<br>
-Technologies used: Ruby on Rails, JavaScript, SQL, CSS, HTML, Ajax, WebSocket, API (Mapbox, Cloudinary).<br>
-Lien du projet :  [www.cityhunters.site](https://www.cityhunters.site/)<br>
-Voir le demo day [ici](https://drive.google.com/file/d/16bFWz9swRAkmfDFpRVqBFp5hksSVBNbS/view?usp=drive_link).<br>
-Voir des images du projet [ici](https://troopl.com/anneperrinefournier/cityhunters).<br>
-
-🚝 <strong>**Airatp**</strong><br>
-End-of-course project at Le Wagon | 4 team members | 1 week<br>
-Airbnb-style marketplace website for renting imaginary vehicles.<br>
-Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.<br>
-Voir des images du projet [ici](https://troopl.com/anneperrinefournier/airatp).
-
-🚙 <strong>**DriveConnect**</strong><br>
-Airbnb-style marketplace website for peer-to-peer car rentals.<br>
-Technologies used: Ruby on Rails, JavaScript (Stimulus), CSS, HTML.<br>
-Voir des images du projet [ici](https://troopl.com/anneperrinefournier/driveconnect).
 
 ## Connect with me:
 
