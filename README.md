@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack RoR Developer from France</h3>
 
 <p>After eight years in the publishing industry and in project management, I completed the Wagon Bootcamp to transition into a full-stack web developer role. Continuously seeking knowledge and passionate about problem-solving, I am now working for the Climate Fresk.</p>
+<p>Available from January 2025 for new opportunities. Contact me if you have a position that could match my profile! 👩🏻‍💻</p>
 
 ## 🚀 Projects
 
